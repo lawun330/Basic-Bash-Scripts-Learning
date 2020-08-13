@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+#retrying the failed command
 #pass the command as parameter
 n=0
 command=$1 #as sys.argv[1]

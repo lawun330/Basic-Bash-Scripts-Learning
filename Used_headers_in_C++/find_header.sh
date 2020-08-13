@@ -1,8 +1,10 @@
 #!/bin/bash
 
+#find the headers of the desired C++ file and list them in a new file
+
 >used_header_list.txt
 
-path=~/Desktop/test.cpp
+path=~/Desktop/Bash_scripts/test.cpp
 header=$(grep 'include' $path | cut -d ' ' -f 1-)
 
 if $header!='' ;then
