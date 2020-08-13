@@ -1,2 +1,2 @@
 # Basic_bash_scripts
-Some of the basic bash scripts that maybe useful.
+Some of the basic bash scripts that maybe useful in Linux OS.
